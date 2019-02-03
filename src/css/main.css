@@ -1,6 +1,14 @@
 /* Your CSS here. */
 .centerMe {
+
 text-align: center;
 
 background-color: yellow;
+
+}
+
+body {
+background-color: yellow;
+	
+	
 }
